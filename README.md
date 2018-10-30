@@ -12,9 +12,9 @@ edit README.md
 
 
 Add your name here:
+
+sarim
 alec
-<<<<<<< HEAD
 tanner 
 liam
 shivani
->>>>>>> master
