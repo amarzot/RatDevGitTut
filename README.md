@@ -13,5 +13,8 @@ edit README.md
 
 Add your name here:
 alec
+<<<<<<< HEAD
+tanner 
 liam
 shivani
+>>>>>>> master
