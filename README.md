@@ -10,6 +10,11 @@ git branch <name>
 ```
 edit README.md
 
+
 Add your name here:
 alec
-tanner
+<<<<<<< HEAD
+tanner 
+liam
+shivani
+>>>>>>> master
