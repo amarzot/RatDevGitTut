@@ -12,6 +12,8 @@ edit README.md
 
 
 Add your name here:
+temma
+sarim
 alec
 decline
 tanner 
